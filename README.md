@@ -31,11 +31,11 @@ A CSV file storing ~200 countries/continents and their populations in millions o
 
 **Object Revision Evaluation Service (ORES) API**
 
-API used to predict article quality based on the [WikiProject article quality grading scheme](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment#Grades). The documentation can be found at https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context.
+API used to predict article quality based on the [WikiProject article quality grading scheme](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment#Grades). The documentation for the specific type of API call being used can be found at https://ores.wikimedia.org/v3/#!/scoring/get_v3_scores_context.
 
 ## Dependencies
 
-This assignment was completed using Python 3.6 and running in a Jupyter Notebook environment.
+This assignment was completed using Python 3.6, running in a Jupyter Notebook environment.
 
 * Python 3.6 documentation: https://docs.python.org/3.6/
 
@@ -66,6 +66,8 @@ This assignment's code is released under an [MIT License](https://opensource.org
 
 `data/page_data.csv` is licensed under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
 
-## Footnote
+## Footnotes
 
 I'm having trouble rendering the Jupyter Notebook for this assignment in GitHub. Here is an `nbviewer` link to view the notebook without having to download it: https://nbviewer.jupyter.org/github/ryanbald/data-512-a2/blob/master/hcds-a2-bias.ipynb.
+
+[ORES Privacy Policy](https://foundation.wikimedia.org/wiki/Non-wiki_privacy_policy)
