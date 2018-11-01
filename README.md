@@ -65,3 +65,7 @@ A CSV file that merges the Wikipedia articles CSV file, the country populations 
 This assignment's code is released under an [MIT License](https://opensource.org/licenses/MIT).
 
 `data/page_data.csv` is licensed under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+## Footnote
+
+I'm having trouble rendering the Jupyter Notebook for this assignment in GitHub. Here is an `nbviewer` link to view the notebook without having to download it: https://nbviewer.jupyter.org/github/ryanbald/data-512-a2/blob/master/hcds-a2-bias.ipynb.
