@@ -62,6 +62,6 @@ A CSV file that merges the Wikipedia articles CSV file, the country populations 
 
 ## Licenses
 
-This assignment's code is released under an MIT License.
+This assignment's code is released under an [MIT License](https://opensource.org/licenses/MIT).
 
-`data/page_data.csv` is licensed under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
+`data/page_data.csv` is licensed under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
